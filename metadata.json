@@ -1,0 +1,6 @@
+{
+  "name": "MindAI — Where Your Mind Meets the Impossible",
+  "description": "A full-viewport hero page for MindAI — where your mind meets the impossible.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
